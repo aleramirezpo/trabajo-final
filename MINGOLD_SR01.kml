@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>MINGOLD_SR01_Poligono_Exploracion_Academico</name>
+    <name>MINGOLD_SR01_Polígono_Exploración_Académico</name>
     <description>
-      Poligono academico MINGOLD-SR01. Sistema de referencia WGS84 EPSG:4326. Ubicacion conceptual: franja Segovia-Remedios, Nordeste de Antioquia, Colombia. La condicion de no superposicion con titulos vigentes es simulada para fines academicos y debe verificarse en ANNA Mineria antes de cualquier tramite real.
+      Polígono académico MINGOLD-SR01. Sistema de referencia WGS84 EPSG:4326. Ubicación conceptual: franja Segovia-Remedios, Nordeste de Antioquia, Colombia. La condición de no superposición con títulos vigentes es simulada para fines académicos y debe verificarse en ANNA Minería antes de cualquier trámite real.
     </description>
     <Style id="mingold_poly_style">
       <LineStyle>
@@ -17,9 +17,9 @@
       </PolyStyle>
     </Style>
     <Placemark>
-      <name>MINGOLD-SR01 - Area de exploracion aurifera</name>
+      <name>MINGOLD-SR01 - Área de exploración aurífera</name>
       <description>
-        Area aproximada: 53.63 km2. Perimetro aproximado: 27.90 km. Centroide aproximado: -74.802012, 7.138670. Uso: planeacion academica de empresa minera subterranea de oro.
+        Área aproximada: 53.63 km². Perímetro aproximado: 27.90 km. Centroide aproximado: -74.802012, 7.138670. Uso: planeación académica de empresa minera subterránea de oro.
       </description>
       <styleUrl>#mingold_poly_style</styleUrl>
       <Polygon>

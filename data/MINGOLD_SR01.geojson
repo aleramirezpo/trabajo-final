@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "MINGOLD_SR01_Poligono_Exploracion_Academico",
+  "name": "MINGOLD_SR01_Polígono_Exploración_Académico",
   "crs": {
     "type": "name",
     "properties": {
@@ -11,14 +11,14 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "MINGOLD-SR01 - Area de exploracion aurifera",
+        "name": "MINGOLD-SR01 - Área de exploración aurífera",
         "area_km2": 53.63,
         "perimeter_km": 27.90,
         "centroid_lon": -74.802012,
         "centroid_lat": 7.138670,
         "datum": "WGS84 EPSG:4326",
-        "use": "Planeacion academica de empresa minera subterranea de oro",
-        "disclaimer": "La condicion de no superposicion con titulos vigentes es simulada para fines academicos y debe verificarse en ANNA Mineria antes de cualquier tramite real."
+        "use": "Planeación académica de empresa minera subterránea de oro",
+        "disclaimer": "La condición de no superposición con títulos vigentes es simulada para fines académicos y debe verificarse en ANNA Minería antes de cualquier trámite real."
       },
       "geometry": {
         "type": "Polygon",

@@ -33,7 +33,7 @@ const counters = document.querySelectorAll('[data-count]');
 let countersStarted = false;
 
 const formatCounter = (value, target, original) => {
-  if (original.includes('%')) return `${Math.round(value)} %`;
+  if (original.includes('%')) return `${Math.round(value)}%`;
   if (target >= 1000) return Math.round(value).toLocaleString('es-CO').replace(/,/g, '.');
   return Math.round(value).toString();
 };

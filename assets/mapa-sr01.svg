@@ -32,6 +32,6 @@
     <text x="474" y="275">Centroide</text>
   </g>
   <rect x="92" y="462" width="142" height="56" rx="12" fill="#FFFFFF" stroke="#CDD5D8"/>
-  <text x="163" y="486" text-anchor="middle" font-family="Arial" font-size="16" font-weight="800" fill="#172026">Área: 53,63 km2</text>
+  <text x="163" y="486" text-anchor="middle" font-family="Arial" font-size="16" font-weight="800" fill="#172026">Área: 53,63 km²</text>
   <text x="163" y="508" text-anchor="middle" font-family="Arial" font-size="15" fill="#52606B">WGS84 EPSG:4326</text>
 </svg>

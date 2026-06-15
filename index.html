@@ -23,10 +23,12 @@
       </button>
       <div class="nav-menu" id="nav-menu">
         <a href="#proyecto">Proyecto</a>
+        <a href="#geologia">Geología</a>
         <a href="#operacion">Operación</a>
         <a href="#sostenibilidad">Sostenibilidad</a>
         <a href="#hseq">HSEQ</a>
         <a href="#organizacion">Organización</a>
+        <a href="#indicadores">Indicadores</a>
         <a href="#documentos">Documentos</a>
       </div>
     </nav>
@@ -50,20 +52,24 @@
 
     <section class="metrics" aria-label="Métricas principales">
       <article>
+        <span class="metric-kicker">Capacidad nominal</span>
         <span class="metric-value" data-count="1200">1.200</span>
-        <span class="metric-label">t/d de mineral</span>
+        <span class="metric-label">t/d - Mineral en régimen</span>
       </article>
       <article>
+        <span class="metric-kicker">Producción estimada</span>
         <span class="metric-value" data-count="58500">58.500</span>
-        <span class="metric-label">oz Au/año estimadas</span>
+        <span class="metric-label">oz Au/año - Caso base</span>
       </article>
       <article>
-        <span class="metric-value" data-count="92">92 %</span>
-        <span class="metric-label">recuperación metalúrgica</span>
+        <span class="metric-kicker">Recuperación</span>
+        <span class="metric-value" data-count="92">92%</span>
+        <span class="metric-label">Recuperación metalúrgica anual</span>
       </article>
       <article>
+        <span class="metric-kicker">Organización</span>
         <span class="metric-value" data-count="814">814</span>
-        <span class="metric-label">personas directas</span>
+        <span class="metric-label">Personas directas - 24/7</span>
       </article>
     </section>
 
@@ -88,11 +94,27 @@
           <img src="assets/mapa-sr01.svg" alt="Mapa conceptual del polígono MINGOLD SR01">
         </div>
       </div>
-      <div class="data-strip">
-        <span><strong>Área:</strong> 53,63 km2</span>
-        <span><strong>Perímetro:</strong> 27,90 km</span>
-        <span><strong>Centroide:</strong> -74,802012 / 7,138670</span>
-        <span><strong>Datum:</strong> WGS84 EPSG:4326</span>
+      <div class="data-strip technical-stats" aria-label="Datos técnicos del polígono SR01">
+        <article class="stat-card">
+          <span class="stat-label">Área</span>
+          <strong class="stat-value">53,63 <small>km²</small></strong>
+          <p>Extensión aproximada del polígono académico SR01.</p>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">Perímetro</span>
+          <strong class="stat-value">27,90 <small>km</small></strong>
+          <p>Longitud aproximada del límite externo del área.</p>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">Centroide</span>
+          <strong class="stat-value coords">-74,802012 / 7,138670</strong>
+          <p>Longitud y latitud del punto central conceptual.</p>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">Referencia espacial</span>
+          <strong class="stat-value coords">WGS84</strong>
+          <p>Coordenadas geográficas en EPSG:4326.</p>
+        </article>
       </div>
     </section>
 
@@ -157,10 +179,22 @@
           <p class="eyebrow">Planta de beneficio</p>
           <h2>Recuperación combinada para oro libre y oro asociado a sulfuros.</h2>
           <p>El circuito conceptual integra trituración, molienda, gravimetría, flotación selectiva, CIL, elución, electrodeposición, fundición y disposición de relaves.</p>
-          <div class="mini-metrics">
-            <span><strong>5,0 g/t Au</strong>Ley media base</span>
-            <span><strong>92 %</strong>Recuperación anual objetivo</span>
-            <span><strong>Doré</strong>Producto comercial</span>
+          <div class="mini-metrics technical-stats" aria-label="Parámetros técnicos de planta">
+            <article class="stat-card compact">
+              <span class="stat-label">Ley media base</span>
+              <strong class="stat-value">5,0 <small>g/t Au</small></strong>
+              <p>Contenido promedio de oro usado para el caso de diseño.</p>
+            </article>
+            <article class="stat-card compact">
+              <span class="stat-label">Recuperación objetivo</span>
+              <strong class="stat-value">92<small>%</small></strong>
+              <p>Meta anual de recuperación metalúrgica del circuito.</p>
+            </article>
+            <article class="stat-card compact">
+              <span class="stat-label">Producto comercial</span>
+              <strong class="stat-value">Doré <small>Au-Ag</small></strong>
+              <p>Barra semirrefinada enviada a refinador certificado.</p>
+            </article>
           </div>
         </div>
         <div class="illustration-card">
@@ -202,6 +236,7 @@
           <p class="eyebrow">Seguridad HSEQ</p>
           <h2>Vida primero: controles críticos antes que producción.</h2>
           <p>La Gerencia HSEQ reporta directamente al CEO y tiene autoridad para detener trabajos por atmósferas peligrosas, sostenimiento deficiente, explosivos, energía peligrosa, cianuro o condiciones geomecánicas anómalas.</p>
+          <p class="compliance-note">El sistema considera el Decreto 1886 de 2015 y sus modificaciones aplicables, incluido el Decreto 944 de 2022.</p>
           <ul class="check-list light">
             <li>Cero fatalidades como condición de gestión.</li>
             <li>TRIFR objetivo menor a 2,0.</li>
@@ -219,7 +254,7 @@
       <div class="section-heading">
         <p class="eyebrow">Organización</p>
         <h2>Arquitectura robusta para una operación 24/7.</h2>
-        <p>El organigrama definitivo propone 814 personas directas y separa funciones críticas para evitar conflictos de interés entre producción, seguridad, mantenimiento, ambiente y control técnico.</p>
+        <p>El organigrama definitivo propone 814 personas directas para operación 24/7 y separa funciones críticas para evitar conflictos de interés entre producción, seguridad, mantenimiento, ambiente y control técnico.</p>
       </div>
       <div class="org-chart" aria-label="Resumen de estructura organizacional">
         <div class="org-node top-node">Junta Directiva</div>
@@ -265,14 +300,40 @@
             </tr>
           </thead>
           <tbody>
-            <tr><td>Producción anual de oro</td><td>&gt; 55.000 oz/año desde año 4</td><td>Gerencia de Operaciones</td></tr>
-            <tr><td>Costo operativo unitario</td><td>&lt; 850 USD/oz Au</td><td>CFO</td></tr>
-            <tr><td>Recuperación metalúrgica</td><td>&ge; 92 % anual</td><td>Jefe de Planta</td></tr>
-            <tr><td>Fatalidades</td><td>0</td><td>Gerencia General / HSEQ</td></tr>
-            <tr><td>Recirculación de agua</td><td>&ge; 75 %</td><td>Jefatura Ambiental</td></tr>
-            <tr><td>Empleo local</td><td>&ge; 60 % en cargos no especializados</td><td>RRHH / Comunidad</td></tr>
+            <tr><td>Producción anual de oro</td><td><strong class="target-value">&gt; 55.000 oz/año</strong><span>Desde el año 4</span></td><td>Gerencia de Operaciones</td></tr>
+            <tr><td>Costo operativo unitario</td><td><strong class="target-value">&lt; 850 USD/oz Au</strong><span>Costo operativo objetivo</span></td><td>CFO</td></tr>
+            <tr><td>Recuperación metalúrgica</td><td><strong class="target-value">&ge; 92%</strong><span>Promedio anual</span></td><td>Jefe de Planta</td></tr>
+            <tr><td>Fatalidades</td><td><strong class="target-value">0</strong><span>Meta obligatoria de gestión</span></td><td>Gerencia General / HSEQ</td></tr>
+            <tr><td>Recirculación de agua</td><td><strong class="target-value">&ge; 75%</strong><span>Agua de proceso recirculada</span></td><td>Jefatura Ambiental</td></tr>
+            <tr><td>Empleo local</td><td><strong class="target-value">&ge; 60%</strong><span>Cargos no especializados</span></td><td>RRHH / Comunidad</td></tr>
           </tbody>
         </table>
+      </div>
+      <div class="glossary-grid" aria-label="Explicación breve de siglas técnicas">
+        <article class="card glossary-card">
+          <h3>HSEQ</h3>
+          <p>Salud, seguridad, ambiente y calidad; integra controles para proteger personas, operación y cumplimiento.</p>
+        </article>
+        <article class="card glossary-card">
+          <h3>SGI</h3>
+          <p>Sistema de Gestión Integrado; articula calidad, ambiente, seguridad y mejora continua.</p>
+        </article>
+        <article class="card glossary-card">
+          <h3>TRIFR</h3>
+          <p>Tasa de frecuencia de lesiones registrables por millón de horas trabajadas.</p>
+        </article>
+        <article class="card glossary-card">
+          <h3>CIL</h3>
+          <p>Carbon in Leach; proceso metalúrgico de lixiviación con carbón activado para recuperar oro.</p>
+        </article>
+        <article class="card glossary-card">
+          <h3>LHD</h3>
+          <p>Load-Haul-Dump; equipo bajo perfil para cargar, transportar y descargar mineral en mina subterránea.</p>
+        </article>
+        <article class="card glossary-card">
+          <h3>WGS84</h3>
+          <p>Sistema geodésico mundial usado para expresar coordenadas de longitud y latitud.</p>
+        </article>
       </div>
     </section>
 
@@ -280,7 +341,7 @@
       <div class="section-heading">
         <p class="eyebrow">Documentos y datos</p>
         <h2>Archivos del proyecto listos para consulta y publicación.</h2>
-        <p>La web referencia los documentos técnicos existentes y agrega el archivo GeoJSON faltante para complementar el KML.</p>
+        <p>La web referencia los documentos técnicos del proyecto e incluye archivos espaciales en KML y GeoJSON para consulta SIG.</p>
       </div>
       <div class="download-grid">
         <a class="download-card" href="MINGOLD_Proyecto_Integral_Profesional.pdf" target="_blank" rel="noopener">
