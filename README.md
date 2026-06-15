@@ -10,8 +10,7 @@ Sitio web estático para presentar el proyecto académico MINGOLD, una empresa c
 - `assets/`: logo e ilustraciones SVG propias.
 - `data/MINGOLD_SR01.geojson`: polígono académico SR01 en WGS84.
 - `MINGOLD_SR01.kml`: polígono para Google Earth o Google My Maps.
-- `MINGOLD_Proyecto_Integral_Profesional.pdf`: informe integral del proyecto.
-- `MINGOLD_Organigrama_Definitivo_IEEE.pdf`: estructura organizacional definitiva.
+- `MINGOLD_Informe_Tecnico_Final_Web.pdf`: informe técnico final del proyecto.
 
 ## Ejecutar localmente
 
