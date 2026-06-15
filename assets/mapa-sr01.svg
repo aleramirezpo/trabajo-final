@@ -21,7 +21,7 @@
   <text x="708" y="137" text-anchor="middle" font-family="Arial" font-size="24" font-weight="900" fill="#172026">N</text>
   <text x="42" y="322" transform="rotate(-90 42 322)" font-family="Arial" font-size="20" font-weight="700" fill="#52606B">Latitud Norte</text>
   <text x="430" y="588" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700" fill="#52606B">Longitud Oeste</text>
-  <text x="428" y="53" text-anchor="middle" font-family="Arial" font-size="28" font-weight="900" fill="#172026">Poligono academico MINGOLD-SR01</text>
+  <text x="428" y="53" text-anchor="middle" font-family="Arial" font-size="28" font-weight="900" fill="#172026">Polígono académico MINGOLD-SR01</text>
   <g font-family="Arial" font-size="18" font-weight="700" fill="#172026">
     <text x="401" y="112">V1</text>
     <text x="575" y="134">V2</text>
@@ -32,6 +32,6 @@
     <text x="474" y="275">Centroide</text>
   </g>
   <rect x="92" y="462" width="142" height="56" rx="12" fill="#FFFFFF" stroke="#CDD5D8"/>
-  <text x="163" y="486" text-anchor="middle" font-family="Arial" font-size="16" font-weight="800" fill="#172026">Area: 53,63 km2</text>
+  <text x="163" y="486" text-anchor="middle" font-family="Arial" font-size="16" font-weight="800" fill="#172026">Área: 53,63 km2</text>
   <text x="163" y="508" text-anchor="middle" font-family="Arial" font-size="15" fill="#52606B">WGS84 EPSG:4326</text>
 </svg>

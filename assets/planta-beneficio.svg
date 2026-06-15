@@ -15,10 +15,10 @@
   <path d="M580 104L599 73L620 104" fill="#F3D18A"/>
   <path d="M148 380V456H710V380" stroke="#F3D18A" stroke-width="8" stroke-linecap="round" stroke-dasharray="24 14"/>
   <path d="M710 456L775 414V498L710 456Z" fill="#D9A441"/>
-  <text x="152" y="422" text-anchor="middle" font-family="Arial" font-size="18" font-weight="900" fill="#FFF3D1">TRITURACION</text>
+  <text x="152" y="422" text-anchor="middle" font-family="Arial" font-size="18" font-weight="900" fill="#FFF3D1">TRITURACIÓN</text>
   <text x="337" y="422" text-anchor="middle" font-family="Arial" font-size="18" font-weight="900" fill="#FFF3D1">MOLIENDA</text>
-  <text x="600" y="422" text-anchor="middle" font-family="Arial" font-size="18" font-weight="900" fill="#FFF3D1">CIL / FLOTACION</text>
-  <text x="746" y="535" text-anchor="middle" font-family="Arial" font-size="18" font-weight="900" fill="#FFF3D1">DORE</text>
-  <text x="430" y="62" text-anchor="middle" font-family="Arial" font-size="31" font-weight="900" fill="#FFF3D1">Planta de beneficio aurifero</text>
+  <text x="600" y="422" text-anchor="middle" font-family="Arial" font-size="18" font-weight="900" fill="#FFF3D1">CIL / FLOTACIÓN</text>
+  <text x="746" y="535" text-anchor="middle" font-family="Arial" font-size="18" font-weight="900" fill="#FFF3D1">DORÉ</text>
+  <text x="430" y="62" text-anchor="middle" font-family="Arial" font-size="31" font-weight="900" fill="#FFF3D1">Planta de beneficio aurífero</text>
   <path d="M84 548H240M620 548H776" stroke="#0F6B4F" stroke-width="12" stroke-linecap="round"/>
 </svg>
