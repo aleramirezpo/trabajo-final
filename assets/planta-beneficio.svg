@@ -1,0 +1,24 @@
+<svg width="860" height="620" viewBox="0 0 860 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="620" rx="34" fill="#172026"/>
+  <path d="M70 497H790" stroke="#43515C" stroke-width="18" stroke-linecap="round"/>
+  <rect x="96" y="214" width="112" height="166" rx="16" fill="#D9A441"/>
+  <path d="M118 214L152 151L187 214" fill="#F3D18A"/>
+  <rect x="266" y="271" width="145" height="109" rx="18" fill="#2D3943" stroke="#F3D18A" stroke-width="5"/>
+  <circle cx="337" cy="326" r="42" fill="#F3D18A"/>
+  <circle cx="337" cy="326" r="20" fill="#172026"/>
+  <rect x="470" y="209" width="72" height="171" rx="14" fill="#0F6B4F"/>
+  <rect x="564" y="209" width="72" height="171" rx="14" fill="#0F6B4F" opacity="0.85"/>
+  <rect x="658" y="209" width="72" height="171" rx="14" fill="#0F6B4F" opacity="0.7"/>
+  <path d="M208 308H266M411 326H470M542 294H564M636 294H658" stroke="#F3D18A" stroke-width="10" stroke-linecap="round"/>
+  <path d="M506 209V168H694V209" stroke="#D9A441" stroke-width="9" stroke-linecap="round"/>
+  <rect x="565" y="104" width="68" height="64" rx="10" fill="#D9A441"/>
+  <path d="M580 104L599 73L620 104" fill="#F3D18A"/>
+  <path d="M148 380V456H710V380" stroke="#F3D18A" stroke-width="8" stroke-linecap="round" stroke-dasharray="24 14"/>
+  <path d="M710 456L775 414V498L710 456Z" fill="#D9A441"/>
+  <text x="152" y="422" text-anchor="middle" font-family="Arial" font-size="18" font-weight="900" fill="#FFF3D1">TRITURACION</text>
+  <text x="337" y="422" text-anchor="middle" font-family="Arial" font-size="18" font-weight="900" fill="#FFF3D1">MOLIENDA</text>
+  <text x="600" y="422" text-anchor="middle" font-family="Arial" font-size="18" font-weight="900" fill="#FFF3D1">CIL / FLOTACION</text>
+  <text x="746" y="535" text-anchor="middle" font-family="Arial" font-size="18" font-weight="900" fill="#FFF3D1">DORE</text>
+  <text x="430" y="62" text-anchor="middle" font-family="Arial" font-size="31" font-weight="900" fill="#FFF3D1">Planta de beneficio aurifero</text>
+  <path d="M84 548H240M620 548H776" stroke="#0F6B4F" stroke-width="12" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,34 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFF6E3"/>
+      <stop offset="1" stop-color="#E7DAC3"/>
+    </linearGradient>
+    <linearGradient id="goldVein" x1="164" y1="508" x2="780" y2="278" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A66F1B"/>
+      <stop offset="0.5" stop-color="#F3D18A"/>
+      <stop offset="1" stop-color="#D9A441"/>
+    </linearGradient>
+  </defs>
+  <rect x="20" y="20" width="920" height="680" rx="44" fill="url(#sky)"/>
+  <circle cx="770" cy="130" r="58" fill="#F3D18A" opacity="0.85"/>
+  <path d="M0 512L162 318L309 408L462 214L628 372L765 242L960 412V720H0V512Z" fill="#25313A"/>
+  <path d="M0 572L153 409L274 496L443 323L602 458L765 333L960 484V720H0V572Z" fill="#172026"/>
+  <path d="M132 582C236 556 297 511 366 458C468 380 540 360 651 370C710 375 763 362 826 315" stroke="url(#goldVein)" stroke-width="26" stroke-linecap="round"/>
+  <path d="M149 594C254 574 320 528 387 474C487 393 548 386 648 395C704 400 759 390 840 341" stroke="#FFF3D1" stroke-width="5" stroke-linecap="round" opacity="0.9"/>
+  <path d="M205 656V505H355V656" fill="#11181D"/>
+  <path d="M230 656V532H330V656" fill="#2D3943"/>
+  <path d="M224 531H338L354 488H208L224 531Z" fill="#D9A441"/>
+  <path d="M252 491C259 465 279 450 309 449C334 449 352 464 359 491" stroke="#172026" stroke-width="12" stroke-linecap="round"/>
+  <path d="M184 657H405" stroke="#D9A441" stroke-width="10" stroke-linecap="round"/>
+  <path d="M475 606H737" stroke="#43515C" stroke-width="42" stroke-linecap="round"/>
+  <path d="M480 606H729" stroke="#D9A441" stroke-width="8" stroke-dasharray="26 16"/>
+  <rect x="510" y="551" width="98" height="64" rx="10" fill="#D9A441"/>
+  <rect x="591" y="571" width="88" height="44" rx="8" fill="#F3D18A"/>
+  <circle cx="538" cy="620" r="22" fill="#10171C"/>
+  <circle cx="643" cy="620" r="22" fill="#10171C"/>
+  <path d="M562 550L603 512H662L678 571" stroke="#172026" stroke-width="12" stroke-linejoin="round"/>
+  <rect x="626" y="526" width="29" height="28" fill="#172026"/>
+  <path d="M92 210H259M92 248H204M92 286H239" stroke="#172026" stroke-width="11" stroke-linecap="round" opacity="0.25"/>
+  <path d="M746 475H853M782 511H900" stroke="#FFF3D1" stroke-width="10" stroke-linecap="round" opacity="0.35"/>
+</svg>

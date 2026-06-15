@@ -1,0 +1,19 @@
+<svg width="860" height="620" viewBox="0 0 860 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="620" rx="34" fill="#ECF6EF"/>
+  <path d="M0 432C130 360 231 393 342 426C486 469 605 469 860 343V620H0V432Z" fill="#0F6B4F"/>
+  <path d="M0 490C165 438 290 471 424 501C549 530 692 510 860 440V620H0V490Z" fill="#172026"/>
+  <path d="M145 411C252 324 369 320 476 386C579 449 686 419 763 332" stroke="#F3D18A" stroke-width="18" stroke-linecap="round"/>
+  <path d="M196 343C217 279 272 244 343 249C421 255 464 304 476 386" stroke="#0F6B4F" stroke-width="12" stroke-linecap="round"/>
+  <path d="M262 251C288 188 338 151 421 151C513 151 585 218 595 310" stroke="#D9A441" stroke-width="12" stroke-linecap="round"/>
+  <path d="M600 313C637 258 681 242 736 253" stroke="#0F6B4F" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="421" cy="151" r="52" fill="#F3D18A" opacity="0.9"/>
+  <path d="M250 477C304 445 358 453 404 500C331 529 283 516 250 477Z" fill="#7BBE6A"/>
+  <path d="M518 490C564 433 634 426 697 473C637 526 575 532 518 490Z" fill="#7BBE6A"/>
+  <path d="M294 496C314 484 350 483 384 497M562 490C600 465 644 463 681 475" stroke="#ECF6EF" stroke-width="7" stroke-linecap="round"/>
+  <rect x="88" y="85" width="250" height="118" rx="24" fill="#FFFFFF" stroke="#CFE6D8"/>
+  <text x="213" y="127" text-anchor="middle" font-family="Arial" font-size="23" font-weight="900" fill="#172026">Cierre progresivo</text>
+  <text x="213" y="164" text-anchor="middle" font-family="Arial" font-size="18" fill="#52606B">Agua, relaves y revegetalizacion</text>
+  <rect x="542" y="88" width="230" height="105" rx="24" fill="#FFFFFF" stroke="#CFE6D8"/>
+  <text x="657" y="130" text-anchor="middle" font-family="Arial" font-size="23" font-weight="900" fill="#172026">Licencia social</text>
+  <text x="657" y="164" text-anchor="middle" font-family="Arial" font-size="18" fill="#52606B">Empleo y compras locales</text>
+</svg>

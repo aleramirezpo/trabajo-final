@@ -1,0 +1,37 @@
+<svg width="860" height="620" viewBox="0 0 860 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="620" rx="34" fill="#FFFDF7"/>
+  <path d="M75 86H785V545H75V86Z" fill="#F2E9D8" stroke="#CDD5D8" stroke-width="2"/>
+  <g stroke="#CDD5D8" stroke-width="1">
+    <path d="M75 162H785M75 238H785M75 314H785M75 390H785M75 466H785"/>
+    <path d="M176 86V545M277 86V545M378 86V545M479 86V545M580 86V545M681 86V545"/>
+  </g>
+  <path d="M421 133L562 143L607 283L497 424L355 398L309 262L421 133Z" fill="#F3D18A" stroke="#8A661E" stroke-width="6"/>
+  <circle cx="421" cy="133" r="8" fill="#8A2D15"/>
+  <circle cx="562" cy="143" r="8" fill="#8A2D15"/>
+  <circle cx="607" cy="283" r="8" fill="#8A2D15"/>
+  <circle cx="497" cy="424" r="8" fill="#8A2D15"/>
+  <circle cx="355" cy="398" r="8" fill="#8A2D15"/>
+  <circle cx="309" cy="262" r="8" fill="#8A2D15"/>
+  <circle cx="458" cy="283" r="10" fill="#0F6B4F"/>
+  <path d="M272 488H360" stroke="#172026" stroke-width="6" stroke-linecap="round"/>
+  <path d="M272 498H272M360 498H360" stroke="#172026" stroke-width="6" stroke-linecap="round"/>
+  <text x="316" y="524" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700" fill="#172026">2 km aprox.</text>
+  <path d="M708 170V275" stroke="#172026" stroke-width="7" stroke-linecap="round"/>
+  <path d="M708 150L688 186H728L708 150Z" fill="#172026"/>
+  <text x="708" y="137" text-anchor="middle" font-family="Arial" font-size="24" font-weight="900" fill="#172026">N</text>
+  <text x="42" y="322" transform="rotate(-90 42 322)" font-family="Arial" font-size="20" font-weight="700" fill="#52606B">Latitud Norte</text>
+  <text x="430" y="588" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700" fill="#52606B">Longitud Oeste</text>
+  <text x="428" y="53" text-anchor="middle" font-family="Arial" font-size="28" font-weight="900" fill="#172026">Poligono academico MINGOLD-SR01</text>
+  <g font-family="Arial" font-size="18" font-weight="700" fill="#172026">
+    <text x="401" y="112">V1</text>
+    <text x="575" y="134">V2</text>
+    <text x="622" y="288">V3</text>
+    <text x="506" y="456">V4</text>
+    <text x="318" y="424">V5</text>
+    <text x="262" y="267">V6</text>
+    <text x="474" y="275">Centroide</text>
+  </g>
+  <rect x="92" y="462" width="142" height="56" rx="12" fill="#FFFFFF" stroke="#CDD5D8"/>
+  <text x="163" y="486" text-anchor="middle" font-family="Arial" font-size="16" font-weight="800" fill="#172026">Area: 53,63 km2</text>
+  <text x="163" y="508" text-anchor="middle" font-family="Arial" font-size="15" fill="#52606B">WGS84 EPSG:4326</text>
+</svg>
